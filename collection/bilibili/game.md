@@ -8,7 +8,7 @@
 |game|[黑曜石满分神作《Pentiment隐迹渐现》中文实况合集（完结）](https://www.bilibili.com/video/BV1VX4y1a7vj)|
 |game|[年度CRPG游戏《博德之门3》硬核难度攻略+剧情](https://www.bilibili.com/video/BV1Au4y1B7GM)|
 |game|[精灵鼠传说（Ghost of a Tale）无解说休闲剧情流程](https://www.bilibili.com/video/BV1YZ4y1T7yL)|
-|game|[[完结28P]_皇家骑士团2-命运之轮-全剧情攻略流程+LCN路线分歧NPC加入+DLC流程+死者宫殿_[大P]](https://www.bilibili.com/video/BV17s411x7xK)|
+|game|[\[完结28P\]_皇家骑士团2-命运之轮-全剧情攻略流程+LCN路线分歧NPC加入+DLC流程+死者宫殿_\[大P\]](https://www.bilibili.com/video/BV17s411x7xK)|
 |game|[【雨世界】通关攻略解说](https://www.bilibili.com/video/BV1a54y1u7Yn)|
 |game|[国产恐怖解谜《烟火》实况完结](https://www.bilibili.com/video/BV1wv4y1Z7pd)|
 |game|[国产恐怖游戏《烟火》demo实况完结](https://www.bilibili.com/video/BV1np4y1i7qq)|
@@ -16,7 +16,7 @@
 |game|[悬疑惊悚《三伏》实况 完结（录播）](https://www.bilibili.com/video/BV1ru411G72u)|
 |game|[俄罗斯恐怖文字游戏《Tiny Bunny小兔子》第四章实况完结](https://www.bilibili.com/video/BV1Vz4y1x7TV)|
 |game|[俄罗斯恐怖文字游戏《Tiny Bunny 小兔子》第三章实况10P完结](https://www.bilibili.com/video/BV17a411K79u)|
-|game|[【死亡搁浅】中文剧情攻略（全S评价）- Death Stranding | 高画质流程攻略](https://www.bilibili.com/video/BV1zJ411U7xj)|
+|game|[【完结】老戴《死亡搁浅》剧情向精剪全流程解说【公路，索道全通】【包含无解说纯享版】](https://www.bilibili.com/video/BV1EE411q7Vp)|
 |game|[【血源诅咒】剧情解析向解说（重传合集）](https://www.bilibili.com/video/BV1gs411s7K3)|
 |game|[【猫粮解说】《黑暗之魂3》剧情解析向解说 合集](https://www.bilibili.com/video/BV1ax411U7Qx)|
 |game|[【大合集】黑暗之魂1 全剧情全道具分析全流程攻略解说](https://www.bilibili.com/video/BV13s411x7jQ)|
